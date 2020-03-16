@@ -1,0 +1,1 @@
+This project uses the MySQL Sakila example database to run queries. 
